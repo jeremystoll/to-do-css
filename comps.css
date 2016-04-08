@@ -15,6 +15,16 @@ body{
   border-bottom: 1px solid #C7796F;
 }
 
+.header_text{
+  display: inline-block;
+}
+
+.header_icon{
+  display: inline-block;
+  float: right;
+  margin-right: 60px;
+}
+
 /*///////MAIN DIV////////*/
 
 .header_main_center{
