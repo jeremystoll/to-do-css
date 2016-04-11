@@ -132,6 +132,32 @@ font-size: 12px;
   margin-left: 4px;
 }
 
+.family_members{
+
+}
+
+.family_members_header{
+  padding-bottom: 12px;
+  border-bottom: 1px solid #CECECE;
+  margin-top: 20px;
+}
+
+.family_members_list_item{
+  
+
+}
+
+.family_members_list_item_status_dot{
+  display: inline-block;
+
+}
+
+.family_members_list_item_name{
+  display: inline-block;
+
+}
+
+
 
 
 
